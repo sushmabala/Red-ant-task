@@ -18,3 +18,6 @@ The valid suduko can be downloaded as pdf also
 ![image](https://user-images.githubusercontent.com/58509992/116355877-1c280b80-a818-11eb-8130-a91289bf9390.png)
 
 ![image](https://user-images.githubusercontent.com/58509992/116355852-129ea380-a818-11eb-89ad-7849a40221d5.png)
+
+![image](https://user-images.githubusercontent.com/58509992/116356027-55f91200-a818-11eb-8030-4a44d71c8498.png)
+
