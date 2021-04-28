@@ -14,3 +14,6 @@ g. When she clicks on validate, the solution should tell her whether the partial
 Python Tkinter for GUI You can type in the squares that you want with numbers, the empty cells can be filled with dot - '.' 
 Tab button can used for moment inside the cells.
 The valid suduko can be downloaded as pdf also
+![image](https://user-images.githubusercontent.com/58509992/116355877-1c280b80-a818-11eb-8130-a91289bf9390.png)
+
+![image](https://user-images.githubusercontent.com/58509992/116355852-129ea380-a818-11eb-89ad-7849a40221d5.png)
